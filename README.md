@@ -54,7 +54,7 @@ pip install -e .
 A step-by-step tutorial demonstrating how to run MultiST is provided in the following notebook:
 
 ```text
-MultiST/MultiST/test.ipynb
+MultiST/docs/test.ipynb
 ```
 
 The tutorial includes:
