@@ -1,5 +1,5 @@
 
-MultiST: A cross-attention based multimodal model for spatial transcriptomics
+MultiST: A cross-attention-based multimodal model for spatial transcriptomics
 
 MultiST is implemented in the pytorch framework. Please run MultiST on CUDA. The following packages are required to be able to run everything in this repository:
 python==3.9.13
