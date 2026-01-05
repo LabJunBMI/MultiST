@@ -25,7 +25,6 @@ anndata==0.9.1
 matplotlib==3.7.1
 seaborn==0.12.2
 rpy2==3.5.12
-
 torch==2.1.0+cu118
 torchvision==0.16.2+cu118
 torchaudio==2.1.0+cu118
@@ -64,9 +63,4 @@ The tutorial includes:
 - Model training
 - Downstream analysis and visualization
 
----
 
-## Contact
-
-For questions or issues, please contact the corresponding authors listed in the paper
-or open an issue on GitHub.
